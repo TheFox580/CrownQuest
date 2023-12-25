@@ -1,0 +1,4 @@
+name: CrownQuest
+version: '${project.version}'
+main: fr.thefox580.crownquest.CrownQuest
+api-version: '1.20'
